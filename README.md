@@ -20,7 +20,7 @@ This is a simple BMI (Body Mass Index) calculator web application. It calculates
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/your-username/bmi-calculator.git
+    git clone https://github.com/DarrenSquiresJr/BMIcalculator.git](https://github.com/DarrenSquiresJr/BMI-Calculator
     ```
 2. Navigate to the project directory.
     ```sh
