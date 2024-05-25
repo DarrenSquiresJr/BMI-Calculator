@@ -24,7 +24,7 @@ This is a simple BMI (Body Mass Index) calculator web application. It calculates
     ```
 2. Navigate to the project directory.
     ```sh
-    cd bmi-calculator
+    cd BMI-Calculator
     ```
 
 ## Usage
